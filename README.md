@@ -1,2 +1,2 @@
-# Nagendre.github.io
+# Nagendrareddy.github.io
 Portifolio
