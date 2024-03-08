@@ -1,2 +1,7 @@
-# Nagendrareddy.github.io
-Portifolio
+#Data Scientist
+##Education
+b-tech
+###Work Experience
+student
+
+
